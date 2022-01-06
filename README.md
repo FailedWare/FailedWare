@@ -8,3 +8,7 @@ I'm a 14 year old dumbass on GitHub
 ## Social Links.
 - ***Discord*** - FailedWare#1337
 - ***Steam*** - FailedWare
+
+
+
+tsk tsk... if you look in my user file you will find shitposts
