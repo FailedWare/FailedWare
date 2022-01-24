@@ -1,5 +1,5 @@
 ### Hi I'm FailedWare.
-I'm a 14 year old dumbass on GitHub
+I'm a 14 year old on GitHub
 
 ## Working on
 - I'm working on ***BrokenOS 8*** it can be found at https://github.com/FailedWare/BrokenOS
@@ -11,4 +11,4 @@ I'm a 14 year old dumbass on GitHub
 
 
 
-tsk tsk... if you look in my user file you will find shitposts
+tsk tsk... if you look in my user file you will find funny memes
