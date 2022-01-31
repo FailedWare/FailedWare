@@ -2,9 +2,15 @@
 I'm a 14 year old on GitHub
 
 ## Working on
-- I'm currently working on ***Mars-Selfbot*** it can be found at https://github.com/FailedWare/Mars-Selfbot
-- I'm working on ***BrokenOS 8*** it can be found at https://github.com/FailedWare/BrokenOS
-- I'm also working on ***BrokenOS Adv 1*** currently no links exist for this Project
+- ***Mars-Selfbot*** a Discord Selbot tool written in Python!
+https://github.com/FailedWare/Mars-Selfbot
+
+- ***BrokenOS Adv 1***
+currently no links exist for this Project
+
+## Development Haulted
+- ***BrokenOS 8*** A bad batch "OS" I made pretty much impossible for me to make new stuff.
+https://github.com/FailedWare/BrokenOS
 
 
 tsk tsk... if you look in my user file you will find funny memes
