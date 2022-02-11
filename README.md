@@ -9,7 +9,7 @@ https://github.com/FailedWare/Mars-Selfbot
 currently no links exist for this Project
 
 ## Working on (Team Projects)
-- ***Shiro Selfbot*** a Discord Selfbot created by ***Me*** and ***Immoral*** 10x better then ***Mars-Selfbot***
+- ***Shiro Selfbot*** a Discord Selfbot created by ***Me*** and ***Immoral*** 10x better than ***Mars-Selfbot***
 https://github.com/1mm0ral/shiro_selfbot
 
 ## Development Haulted
