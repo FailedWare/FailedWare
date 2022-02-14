@@ -12,7 +12,7 @@ currently no links exist for this Project
 yes i am rewal rockstar give me money
 
 ## Working on (Team Projects)
-- ***Shiro Selfbot*** a Discord Selfbot created by ***Me*** and ***Immoral*** 10x better than ***Mars-Selfbot***
+~~- ***Shiro Selfbot*** a Discord Selfbot created by ***Me*** and ***Immoral*** 10x better than ***Mars-Selfbot***~~
 https://github.com/1mm0ral/shiro_selfbot
 
 ## Development Haulted
