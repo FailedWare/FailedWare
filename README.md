@@ -1,7 +1,7 @@
 ### Hi I'm FailedWare.
 I'm a 14 year old on GitHub
 
-## Working on (Solo Projects)
+## Solo Projects
 - ***Mars-Selfbot*** a Discord Selfbot tool written in Python!
 https://github.com/FailedWare/Mars-Selfbot
 
@@ -11,7 +11,7 @@ currently no links exist for this Project
 ***Grand Theft Auto 6***
 yes i am rewal rockstar give me money
 
-## Working on (Team Projects)
+## Team Projects
 ~~- ***Shiro Selfbot*** a Discord Selfbot created by ***Me*** and ***Immoral*** 10x better than ***Mars-Selfbot***~~
 https://github.com/1mm0ral/shiro_selfbot
 
