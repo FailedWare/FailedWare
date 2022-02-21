@@ -8,7 +8,7 @@ https://github.com/FailedWare/Mars-Selfbot
 - ***BrokenOS Adv 1***
 currently no links exist for this Project
 
-***Grand Theft Auto 6***
+- ***Grand Theft Auto 6***
 yes i am rewal rockstar give me money
 
 ## Team Projects
